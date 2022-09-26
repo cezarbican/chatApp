@@ -1,0 +1,16 @@
+{
+    "name": "cezar/chat",
+    "description": "This is a chat app using php and ajax",
+    "authors": [
+        {
+            "name": "Cezar",
+            "email": "bican.cezar@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "chatapp\\": "./"
+        }
+    },
+    "require": {}
+}
